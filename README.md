@@ -1,1 +1,1 @@
-# hardcore-react-hooks
+# vc-react-hooks
